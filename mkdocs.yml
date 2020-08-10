@@ -1,5 +1,6 @@
-site_name: My Docs
+site_name: Chaos Engineering
 nav:
-        - Home: index.md
-        - Chaos: chaos.md
+        - Home: chaos.md
+        - How To: README.md
+        - Help: index.md
 theme: readthedocs
